@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>AbpDomainEntityBases</PackageId>
+        <Title>AbpDomainEntityBases</Title>
+        <Authors>oguzhankahyaoglu</Authors>
+        <Description>Abp entity base classses like FullAuditedEntity</Description>
+        <PackageProjectUrl>https://github.com/oguzhankahyaoglu/AbpDomainEntityBases</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/oguzhankahyaoglu/AbpDomainEntityBases</RepositoryUrl>
+        <PackageTags>abp entity base</PackageTags>
+        <PackageVersion>1.0</PackageVersion>
+        <PackageReleaseNotes>
+        </PackageReleaseNotes>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />
+    </ItemGroup>
+
+</Project>
