@@ -1,0 +1,10 @@
+C:\Workspace\GIT\_GITHUB\AbpDomainEntityBases\AbpDomainEntityBases\bin\Debug\netstandard2.1\AbpDomainEntityBases.deps.json
+C:\Workspace\GIT\_GITHUB\AbpDomainEntityBases\AbpDomainEntityBases\bin\Debug\netstandard2.1\AbpDomainEntityBases.dll
+C:\Workspace\GIT\_GITHUB\AbpDomainEntityBases\AbpDomainEntityBases\bin\Debug\netstandard2.1\AbpDomainEntityBases.pdb
+C:\Workspace\GIT\_GITHUB\AbpDomainEntityBases\AbpDomainEntityBases\obj\Debug\netstandard2.1\AbpDomainEntityBases.csproj.AssemblyReference.cache
+C:\Workspace\GIT\_GITHUB\AbpDomainEntityBases\AbpDomainEntityBases\obj\Debug\netstandard2.1\AbpDomainEntityBases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\GIT\_GITHUB\AbpDomainEntityBases\AbpDomainEntityBases\obj\Debug\netstandard2.1\AbpDomainEntityBases.AssemblyInfoInputs.cache
+C:\Workspace\GIT\_GITHUB\AbpDomainEntityBases\AbpDomainEntityBases\obj\Debug\netstandard2.1\AbpDomainEntityBases.AssemblyInfo.cs
+C:\Workspace\GIT\_GITHUB\AbpDomainEntityBases\AbpDomainEntityBases\obj\Debug\netstandard2.1\AbpDomainEntityBases.csproj.CoreCompileInputs.cache
+C:\Workspace\GIT\_GITHUB\AbpDomainEntityBases\AbpDomainEntityBases\obj\Debug\netstandard2.1\AbpDomainEntityBases.dll
+C:\Workspace\GIT\_GITHUB\AbpDomainEntityBases\AbpDomainEntityBases\obj\Debug\netstandard2.1\AbpDomainEntityBases.pdb

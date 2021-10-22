@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AbpDomainEntityBases</id>
+    <version>1.0.0</version>
+    <title>AbpDomainEntityBases</title>
+    <authors>oguzhankahyaoglu</authors>
+    <projectUrl>https://github.com/oguzhankahyaoglu/AbpDomainEntityBases</projectUrl>
+    <description>Abp entity base classses like FullAuditedEntity</description>
+    <tags>abp entity base</tags>
+    <repository url="https://github.com/oguzhankahyaoglu/AbpDomainEntityBases" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="System.ComponentModel.Annotations" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Workspace\GIT\_GITHUB\AbpDomainEntityBases\AbpDomainEntityBases\bin\Debug\netstandard2.1\AbpDomainEntityBases.dll" target="lib\netstandard2.1\AbpDomainEntityBases.dll" />
+  </files>
+</package>
